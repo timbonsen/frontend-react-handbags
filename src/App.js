@@ -1,3 +1,5 @@
+//Opdracht Tim Bonsen
+
 import React from 'react';
 import Button from "./Button";
 import Product from "./Product";
